@@ -1,0 +1,23 @@
+/* <!---------Tag Selector-------> */
+body{
+    background-color: aqua;
+}
+h1{
+    color: blueviolet;
+
+}
+/*----------Class Selector-------------------*/
+.milk{
+    background-color: burlywood;
+    padding: 50px;
+}
+.dudh{
+    background-color: chartreuse;
+    padding: 50px;
+}
+h1:hover{
+    color: orange;
+}
+.milk:hover{
+    background-color: black;
+}
