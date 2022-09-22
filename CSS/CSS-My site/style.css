@@ -4,9 +4,26 @@ body{
 h1{
     margin-top: 0;
 }
-
-
-
-div{
+.top{
     background-color: #E4F9F5;
+    height: 200px;
+    width: 200px;
+    border:solid 10px;
+    padding: 20px;
+}
+.middle{
+    height: 200px;
+    width: 200px;
+    border:solid 20px;
+    background-color: blueviolet;
+    
+    margin-left: 260px;
+}
+.bottom{
+    height: 200px;
+    width: 200px;
+    border:solid 10px;
+    background-color: chartreuse;
+  
+    margin-left: 500px;
 }
